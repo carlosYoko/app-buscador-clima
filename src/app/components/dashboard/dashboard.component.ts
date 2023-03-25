@@ -46,5 +46,6 @@ export class DashboardComponent {
 
   clear() {
     this.query = false;
+    this.city = '';
   }
 }
